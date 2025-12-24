@@ -1,9 +1,11 @@
-A [Giter8][g8] template for ...!
+A [Giter8][g8] template for a minimal scala 3 multi-module project that uses the
+clean architecture.
 
 Template license
 ----------------
-Written in <YEAR> by <AUTHOR NAME> <AUTHOR E-MAIL ADDRESS>
-[other author/contributor lines as appropriate]
+Written in 2025 by Cassius Jonus
+
+Based on a similar template created by [devinsideyou](https://github.com/DevInsideYou)
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
 and neighboring rights to this template to the public domain worldwide.
