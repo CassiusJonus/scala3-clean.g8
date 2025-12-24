@@ -2,7 +2,7 @@
 ThisBuild / scalafmtOnCompile := true
 ThisBuild / organization := "$organization$"
 ThisBuild / version := "0.0.1-SNAPSHOT"
-ThisBuild / scalaVersion := $scala_version$
+ThisBuild / scalaVersion := "$scala_version$"
 
 val oneToOneClassDependency = "compile->compile;test->test"
 
