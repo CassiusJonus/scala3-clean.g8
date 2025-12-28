@@ -1,7 +1,7 @@
 A [Giter8][g8] template for a minimal scala 3 multi-module project that uses the
 clean architecture.
 
-Template license
+License
 ----------------
 Written in 2025 by Cassius Jonus
 
