@@ -1,4 +1,3 @@
-// give the user a nice default project!
 ThisBuild / scalafmtOnCompile := true
 ThisBuild / organization := "$organization$"
 ThisBuild / version := "0.0.1-SNAPSHOT"
