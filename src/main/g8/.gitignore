@@ -5,7 +5,8 @@ src_managed/
 project/plugins/project/
 .metals/
 .vscode
-**/project/
+project/project/
 .bloop/
 **/.bloop/
 **/metals.sbt
+**/target/
