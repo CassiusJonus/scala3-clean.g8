@@ -1,6 +1,6 @@
-package $package;format="lower,package"$package
-package $project;format="lower,package"$package
-package $usecase;format="lower,package"$package
+package $package;format="lower,package"$
+package $project;format="lower,package"$
+package $usecase;format="lower,package"$
 
 final class Controller private (boundary: Boundary)
 

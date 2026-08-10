@@ -1,7 +1,6 @@
 import Dependencies._
 
 ThisBuild / scalafmtOnCompile := true
-ThisBuild / name := "$name$"
 ThisBuild / organization := "$organization$"
 ThisBuild / version := "0.0.1-SNAPSHOT"
 ThisBuild / scalaVersion := "$scala_version$"
@@ -9,6 +8,7 @@ ThisBuild / scalaVersion := "$scala_version$"
 lazy val `$name;format="norm"$` = (project in file("."))
   .settings(commonSettings)
   .settings(
+    name := "$name$"
     libraryDependencies ++= commonDependencies
   )
 
