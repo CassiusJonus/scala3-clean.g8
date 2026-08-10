@@ -8,7 +8,7 @@ ThisBuild / scalaVersion := "$scala_version$"
 lazy val `$name;format="norm"$` = (project in file("."))
   .settings(commonSettings)
   .settings(
-    name := "$name$"
+    name := "$name$",
     libraryDependencies ++= commonDependencies
   )
 
